@@ -8,22 +8,27 @@
 -queso
 -carne
 
++
+ 
+refresco
+
 =========================================
 
 -pan
--queso
+-queso extra
 -ensalada
 
 =========================================  
 
 Ahora se promocionan las alitas de pollo 
-con amvorguesas 
+con amvorguesas + bedida a eleccion 
 
 =========================================
 
 -ensaladad con papas firtas
 -refresco
 -una corona de carton 
+-una hacha de carton
 
 =========================================
 
@@ -32,7 +37,11 @@ a propuesta de los clientes
 -pollo 
 -amvorguesa
 -papas fritas
+-aderesos
 
++
+
+refresco
 tan rico que te mata !!!
 
 =========================================
